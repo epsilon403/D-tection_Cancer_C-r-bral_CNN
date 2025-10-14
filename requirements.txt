@@ -1,0 +1,35 @@
+# Core scientific libraries
+numpy
+pandas
+scipy
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Machine learning & preprocessing
+scikit-learn
+xgboost
+imbalanced-learn
+
+# Model persistence
+joblib
+pickle-mixin
+
+# Jupyter Notebook support
+notebook
+jupyterlab
+ipykernel
+
+# Streamlit app (for bonus)
+streamlit
+
+# Optional: For working with YAML configs or JSON
+pyyaml
+
+# Optional: For better warnings and progress bars
+tqdm
+
+# Optional: For statistical summaries
+statsmodels
